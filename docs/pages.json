@@ -1,0 +1,67 @@
+[
+  {
+    "pageKey": "Root",
+    "title": "首页",
+    "url": "/"
+  },
+  {
+    "pageKey": "AuditLogs",
+    "title": "操作日志",
+    "url": "/admin/audit-logs"
+  },
+  {
+    "pageKey": "AdminItems",
+    "title": "物品型号",
+    "url": "/admin/items"
+  },
+  {
+    "pageKey": "AdminLocations",
+    "title": "库位管理",
+    "url": "/admin/locations"
+  },
+  {
+    "pageKey": "AdminUsers",
+    "title": "用户管理",
+    "url": "/admin/users"
+  },
+  {
+    "pageKey": "Alerts",
+    "title": "库存预警",
+    "url": "/alerts"
+  },
+  {
+    "pageKey": "Fees",
+    "title": "费用明细",
+    "url": "/billing/fees"
+  },
+  {
+    "pageKey": "BillingRules",
+    "title": "计费规则",
+    "url": "/billing/rules"
+  },
+  {
+    "pageKey": "Dashboard",
+    "title": "库存总览",
+    "url": "/dashboard"
+  },
+  {
+    "pageKey": "Inbound",
+    "title": "入库管理",
+    "url": "/inbound"
+  },
+  {
+    "pageKey": "Inventory",
+    "title": "库存明细",
+    "url": "/inventory"
+  },
+  {
+    "pageKey": "Login",
+    "title": "登录",
+    "url": "/login"
+  },
+  {
+    "pageKey": "Outbound",
+    "title": "出库管理",
+    "url": "/outbound"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "project_type": "web",
+  "sub_project_type": "",
+  "name": "智慧仓储管理系统",
+  "app_slug": "smart-wms",
+  "version_description": "Fix login card width consistency across tabs",
+  "preview_type": "mobile"
+}
